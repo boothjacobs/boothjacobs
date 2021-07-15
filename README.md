@@ -11,7 +11,7 @@ Fluent in JavaScript, React / Redux, HTML, and console errors, conversational in
 
 Ask me why I think coding and baking draw on the same skill set 😈
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boothjacobs&show_icons=true&locale=en" alt="boothjacobs" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boothjacobs&show_icons=true&locale=en" alt="boothjacobs" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
