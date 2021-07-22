@@ -1,4 +1,4 @@
-Constantly shape-shifting. Currently a software developer. Previous lives include:
+Constantly shape-shifting. Currently a software engineer. Previous lives include:
 - [x] academic 
 - [x] baker 
 - [x] dude ranch staff
