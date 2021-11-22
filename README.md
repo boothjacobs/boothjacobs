@@ -4,12 +4,12 @@ Constantly shape-shifting. Currently a software engineer. Previous lives include
 - [x] dude ranch staff
 - [x] barista
 - [x] cocktail waitress
-
+<!-- 
 I learn best by taking things apart and I'm a ruthlessly patient bug-hunter. Interested in niche UI problems and software that cares more about people than venture capital.
 
 Fluent in JavaScript, React / Redux, HTML, and console errors, conversational in Python and CSS. Frontend/backend ambidextrous.
 
-Ask me why I think coding and baking draw on the same skill set 😈
+Ask me why I think coding and baking draw on the same skill set 😈 -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boothjacobs&show_icons=true&locale=en" alt="boothjacobs" /></p> 
 
